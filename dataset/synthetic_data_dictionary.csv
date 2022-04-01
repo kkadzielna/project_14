@@ -180,7 +180,7 @@ talk_phon_wend,ccs1033,Average time child spent per day talking on an ordinary p
  , ,,,,,,Less than 1 hour,,
  , ,,,,,,1-2 hours,,
 ,,,,,,,3 or more hours,,
-text_week,ccs1012,Average time child spent per day texting on a typical weekday,Ordinal,Child,Aged 198 months,How much time on average do you spend each day ... texting ... on a typical weekday?,Not at all,None,
+text_week,ccs1012,Average time child spent per day texting on a typical weekday,Ordinal,Child,,How much time on average do you spend each day ... texting ... on a typical weekday?,Not at all,None,
  , ,,,,,,Less than 1 hour,,
  , ,,,,,,1-2 hours,,
  , ,,,,,,3 or more hours,,
