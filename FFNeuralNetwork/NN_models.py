@@ -59,7 +59,7 @@ def NN_Model_Dropout(neuron, activation, in_shape, classes, output_activation, o
     model = models.Sequential()
 
     ##Input Layer
-    model.add(Dense(37, activation = activation, input_shape = in_shape))
+    model.add(Dense(35, activation = activation, input_shape = in_shape))
 
     #Hidden Layers
     for i in neuron:
